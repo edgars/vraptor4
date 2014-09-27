@@ -45,7 +45,7 @@ import org.slf4j.LoggerFactory;
  * @author Andrew Kurauchi
  * @author Guilherme Silveira
  * @author Rodrigo Turini
- * @author OtÃ¡vio Garcia
+ * @author Otávio Garcia
  */
 @ApplicationScoped
 @Named("environment")
