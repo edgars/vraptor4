@@ -221,6 +221,6 @@ public class DefaultEnvironment implements Environment {
 
 	@Override
 	public String getName() {
-		return environmentType.getName();
+		return getEnvironmentType().getName();
 	}
 }
